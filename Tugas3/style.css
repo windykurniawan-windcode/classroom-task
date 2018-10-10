@@ -1,0 +1,92 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1.main {
+    font-size: 8.5rem !important;
+    color: blue;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    margin-left: 28px;
+}
+
+h2.sub-main {
+    font-size: 3.5rem;
+    color: blue;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    margin-left: 28px;
+}
+
+h2.title {
+    font-size: 3.5rem;
+    color: blue;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    margin-left: 24px;
+}
+
+h3.subtitle {
+    color: navy;
+    font-size: 1.3rem;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.form-horizontal, .checkbox, h5 {
+    color: navy !important;
+    font-size: 1rem;
+    margin-left: 0px;
+}
+
+p#index {
+    color: navy;
+    font-size: 1.5rem;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+h4 {
+    color: navy;
+    margin: 4px;
+    margin-left: 20px;
+}
+
+h4.index {
+    color: navy;
+    margin: 4px;
+    margin-left: 20px;
+}
+
+li {
+    color: navy;
+    margin: 4px;
+    margin-left: 12px;
+}
+
+h5 {
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+div.radio, div.form-group, div.checkbox {
+    margin-left: 20px;
+}
+
+
+select.form-control {
+    margin-left: 20px;
+}
+
+button.btn {
+    margin-left: 28px;
+    background-color: blue;
+}
+
+a {
+    color: white;
+    
+}
